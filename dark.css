@@ -1,21 +1,12 @@
 .dark {
     background-color: rgb(67, 67, 68);
-    .main-head {
-        color: white;
-    }
-    .content {
-        color: white;
-    }
-    .main-nav {
-        color: white;
-    }
-    .side {
-        color: white;
-    }
-    .ad {
-        color: white;
-    }
+
+    .main-head,
+    .content,
+    .main-nav,
+    .side,
+    .ad,
     .main-footer {
         color: white;
     }
-  }
+}
